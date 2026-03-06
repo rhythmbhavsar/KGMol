@@ -6,8 +6,9 @@ __pycache__/
 *.swp
 
 # Jupyter Notebooks
-notebooks/
-*.ipynb
+notebooks/data
+data_preparation.ipynb
+temp.ipynb
 
 # Virtual environments
 venv/
@@ -24,3 +25,8 @@ Thumbs.db
 
 # VSCode
 .vscode/
+
+# Project data, models, and embeddings
+data/
+models/
+embeddings/
