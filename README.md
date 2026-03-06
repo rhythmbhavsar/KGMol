@@ -4,6 +4,9 @@
 ### What Is This Project?
 This project is like building a smart assistant for scientists working with chemicals. It helps you organize, understand, and predict important things about molecules—like how well they dissolve or how they might behave in a lab. It uses both the usual information about molecules and also how they are connected to each other, making predictions more accurate.
 
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/53659a9d-446c-43fa-ae3f-c19117007f84" />
+
+
 ### What Did We Do?
 
 **1. Getting the Data Ready**
@@ -41,11 +44,6 @@ This project is like building a smart assistant for scientists working with chem
 
 ### The Big Idea
 By teaching computers to look at both what molecules are and how they’re connected, we help scientists find answers faster and with more confidence.
-
----
-
-## Technical Summary (for reference)
-This repository provides a complete pipeline for building, embedding, and training on chemical knowledge graphs using the ZINC dataset, PyTorch Geometric, and RDKit. The project is organized for clarity, reproducibility, and modularity.
 
 ## Project Structure
 
