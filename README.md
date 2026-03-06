@@ -1,8 +1,5 @@
 # Molecular AI Pipeline
 
----
-
-## Project Summary for Biotech & Non-Technical Audiences
 
 ### What Is This Project?
 This project is like building a smart assistant for scientists working with chemicals. It helps you organize, understand, and predict important things about molecules—like how well they dissolve or how they might behave in a lab. It uses both the usual information about molecules and also how they are connected to each other, making predictions more accurate.
